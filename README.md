@@ -432,25 +432,25 @@ your_name_trend.plot(kind='line', title='Your Name Sentiment Tracking')
 ## 🎨 Visualizations Gallery
 
 ### Journey Visualization (2007-2025)
-![Journey Timeline](data/results/journey_timeline.png)
+![Master Timeline](data/results/master_timeline.png)
 *Three-panel view showing sentiment evolution, volume growth, and engagement trends*
 
 → [Generate this viz](notebooks/04_visualizations.ipynb#Journey-Visualization)
 
 ### Subreddit Sentiment Heatmap
-![Heatmap](data/results/subreddit_heatmap.png)
+![Heatmap](data/results/sentiment_heatmap.png)
 *18 years × 10 communities showing temporal sentiment evolution by subreddit*
 
 → [Generate this viz](notebooks/04_visualizations.ipynb#Heatmap-Analysis)
 
 ### Word Cloud Evolution
-![Word Clouds](data/results/wordcloud_evolution.png)
+![Word Clouds](data/results/wordcloud_comparison.png)
 *Side-by-side comparison of early (2010-2015) vs recent (2020-2025) discourse vocabulary*
 
 → [Generate this viz](notebooks/04_visualizations.ipynb#Word-Cloud-Comparison)
 
 ### Comprehensive Dashboard
-![Dashboard](data/results/comprehensive_dashboard.png)
+![Dashboard](data/results/summary_dashboard.png)
 *Six-panel integrated analysis showing all key metrics in one view*
 
 → [Generate this viz](notebooks/04_visualizations.ipynb#Comprehensive-Dashboard)
