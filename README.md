@@ -205,7 +205,7 @@ from-niche-to-mainstream/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/from-niche-to-mainstream.git
+git clone https://github.com/hasandafa/from-niche-to-mainstream.git
 cd from-niche-to-mainstream
 ```
 
@@ -512,7 +512,7 @@ If you use this analysis in your research, please cite:
   title = {From Niche to Mainstream: Anime Sentiment Evolution on Reddit (2007-2025)},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/from-niche-to-mainstream}
+  url = {https://github.com/hasandafa/from-niche-to-mainstream}
 }
 ```
 
@@ -573,8 +573,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 **Author:** Abdullah Hasan Dafa 
 **Email:** dafa.abdullahhasan@gmail.com  
-**GitHub:** [@yourusername](https://github.com/hasandafa)  
-**LinkedIn:** [Your Profile](https://linkedin.com/in/hasandafa)
+**GitHub:** [@hasandafa](https://github.com/hasandafa)  
+**LinkedIn:** [Abdullah Hasan Dafa](https://linkedin.com/in/hasandafa)
 
 **Project Link:** [https://github.com/hasandafa/from-niche-to-mainstream](https://github.com/hasandafa/from-niche-to-mainstream)
 
