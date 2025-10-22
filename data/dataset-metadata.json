@@ -1,0 +1,27 @@
+{
+  "title": "Anime Sentiment Data From Reddit",
+  "id": "hasandafa1201/anime-sentiment-data-from-reddit",
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0"
+    }
+  ],
+  "keywords": [
+    "nlp",
+    "sentiment analysis",
+    "anime",
+    "reddit",
+    "social media",
+    "time series",
+    "text mining",
+    "bert",
+    "vader sentiment",
+    "textblob",
+    "cultural studies",
+    "entertainment",
+    "movies"
+  ],
+  "collaborators": ["Abdullah Hasan Dafa"],
+  "data": [],
+  "links": ["https://www.kaggle.com/datasets/hasandafa1201/anime-sentiment-data-from-reddit"]
+}

@@ -503,6 +503,53 @@ torch.manual_seed(RANDOM_SEED)
 
 ---
 
+---
+
+## 📝 Read the Full Story
+
+**🔥 Featured Article on Substack:**
+
+### ["Remember When Liking Anime Made You 'Weird'? Yeah, About That..."](https://hasandafa.substack.com/p/remember-when-liking-anime-made-you)
+
+*A 5,000-word data-driven deep dive into anime's complete cultural takeover*
+
+**Article Highlights:**
+- 📊 **The Numbers Don't Lie** - 66% positive sentiment, 6,954% growth
+- 🎭 **The Enthusiast Paradox** - Why hardcore fans are more critical
+- 🎬 **Your Name Effect** - The movie that changed everything
+- 📱 **The Streaming Revolution** - How Netflix normalized anime
+- 💬 **Discourse Evolution** - From justification to celebration
+- 🔮 **Future Trajectory** - Where anime goes from here
+
+**Visual Journey:**
+The article features 10 custom visualizations from this analysis, including sentiment heatmaps, temporal trends, word clouds, and the comprehensive dashboard. Each chart tells part of the story of anime's cultural transformation.
+
+**Read Time:** 18-22 minutes
+
+---
+
+## 📦 Resources
+
+### 📊 Dataset (Kaggle)
+**[Anime Sentiment Data From Reddit](https://www.kaggle.com/datasets/hasandafa1201/anime-sentiment-data-from-reddit)**
+- 43,710 submissions with sentiment scores
+- 18 years of temporal data (2007-2025)
+- Multi-model ensemble analysis (VADER + TextBlob + BERT)
+- Ready for your own analysis
+
+### 📝 Article (Substack)
+**[Remember When Liking Anime Made You 'Weird'?](https://hasandafa.substack.com/p/remember-when-liking-anime-made-you)**
+- Full narrative analysis with data storytelling
+- Custom visualizations and insights
+- Discussion of cultural implications
+
+### 💻 Code (GitHub)
+**[This Repository](https://github.com/hasandafa/from-niche-to-mainstream)**
+- Complete analysis notebooks
+- Data collection scripts
+- Visualization code
+- Reproducible research
+
 ## 📝 Citation
 
 If you use this analysis in your research, please cite:
