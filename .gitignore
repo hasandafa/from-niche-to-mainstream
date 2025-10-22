@@ -37,13 +37,14 @@ venv.bak/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
-# Data files (don't commit scraped data)
+# Data files (don't commit scraped data due to large size)
 data/raw/*
 data/processed/*
 data/results/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/results/.gitkeep
+!data/results/*.png
 
 # Logs
 *.log
